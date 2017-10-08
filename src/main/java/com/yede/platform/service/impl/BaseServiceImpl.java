@@ -1,8 +1,8 @@
-package com.yede.service.basic.impl;
+package com.yede.platform.service.impl;
 
-import com.yede.mapper.basic.BaseDao;
-import com.yede.model.basic.AbstractEntity;
-import com.yede.service.basic.BaseService;
+import com.yede.platform.mapper.BaseDao;
+import com.yede.platform.model.entity.AbstractEntity;
+import com.yede.platform.service.BaseService;
 import org.springframework.transaction.annotation.Transactional;
 
 

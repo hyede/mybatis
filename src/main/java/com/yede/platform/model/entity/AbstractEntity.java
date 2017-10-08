@@ -1,4 +1,4 @@
-package com.yede.model.basic;
+package com.yede.platform.model.entity;
 
 import org.springframework.data.annotation.CreatedBy;
 import org.springframework.data.annotation.CreatedDate;

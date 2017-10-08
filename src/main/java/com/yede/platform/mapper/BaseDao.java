@@ -1,11 +1,11 @@
-package com.yede.mapper.basic;
+package com.yede.platform.mapper;
 
 import java.io.Serializable;
 
 public interface BaseDao<T extends Serializable , ID extends Serializable> {
     int deleteByPrimaryKey(ID id);
 
-    int insert2(T record);
+    int insert(T record);
 
     int insertSelective(T record);
 

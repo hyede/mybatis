@@ -1,4 +1,4 @@
-package com.yede.service.basic;
+package com.yede.platform.service;
 
 import java.io.Serializable;
 
